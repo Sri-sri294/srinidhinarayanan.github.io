@@ -2,19 +2,6 @@
 layout: default
 title: "Srinidhi Narayanan - Neuroscience Researcher"
 ---
-
-<link rel="stylesheet" type="text/css" href="styles.css">
-
-<nav>
-  <a href="index.md">Home</a>
-  <a href="about.md">About Me</a>
-  <a href="projects.md">Projects</a>
-  <a href="research.md">Research</a>
-  <a href="publications.md">Publications</a>
-  <a href="resume.md">Resume</a>
-  <a href="futuregoals.md">Future Goals</a>
-</nav>
-
 # Welcome to My Personal Website
 
 ![Profile Picture](photo_me.jpg)
