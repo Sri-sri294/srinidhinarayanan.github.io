@@ -15,3 +15,14 @@ Hi, I'm **Srinidhi Narayanan**, a Master's student in Biomedical Engineering at 
 - [Resume](resume.md)
 - [Publications](publications.md)
 - [Future Goals](futuregoals.md)
+{% if page.title != "Srinidhi Narayanan - Neuroscience Researcher" %}
+<nav>
+  <a href="/index.html">Home</a>
+  <a href="/about.html">About Me</a>
+  <a href="/projects.html">Projects</a>
+  <a href="/research.html">Research</a>
+  <a href="/publications.html">Publications</a>
+  <a href="/resume.html">Resume</a>
+  <a href="/futuregoals.html">Future Goals</a>
+</nav>
+{% endif %}
