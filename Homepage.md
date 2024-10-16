@@ -1,19 +1,32 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-
 ---
 layout: default
 title: "Srinidhi Narayanan - Neuroscience Researcher"
 ---
 
-# Welcome to My Personal Website
+<link rel="stylesheet" type="text/css" href="styles.css">
 
-Hi, I'm **Srinidhi Narayanan**, a Master's student in Biomedical Engineering at Carnegie Mellon University. I have a keen interest in **auditory neuroscience**, **language development**, and **neuroimaging analysis**. Currently, I'm applying for PhD programs to further explore these areas.
+<nav>
+  <a href="index.md">Home</a>
+  <a href="about.md">About Me</a>
+  <a href="projects.md">Projects</a>
+  <a href="research.md">Research</a>
+  <a href="publications.md">Publications</a>
+  <a href="resume.md">Resume</a>
+  <a href="futuregoals.md">Future Goals</a>
+</nav>
 
-## Sections
-- [About Me](about.md)
-- [Research](research.md)
-- [Projects](projects.md)
-- [Resume](resume.md)
-- [Publications](publications.md)
-- [Future Goals](goals.md)
+<div class="content">
+  # Welcome to My Personal Website
 
+  ![Profile Picture]([images/profile.jpg](https://drive.google.com/file/d/1kqHPAK-OxV_Ls-DsqWzNWhaHJqEixfxJ/view?usp=sharing))
+
+  Hi, I'm **Srinidhi Narayanan**, a Master's student in Biomedical Engineering at Carnegie Mellon University. My research focuses on **auditory neuroscience**, particularly in the areas of **synaptopathy**, **statistical learning**, and **speech-in-noise processing**. I aspire to become a **Neuroscience professor**, contributing to the field of **language development and cognitive neuroscience**.
+
+  ## Sections
+  - [About Me](about.md)
+  - [Research](research.md)
+  - [Projects](projects.md)
+  - [Resume](resume.md)
+  - [Publications](publications.md)
+  - [Future Goals](futuregoals.md)
+</div>
