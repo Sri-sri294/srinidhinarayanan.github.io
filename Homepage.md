@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 ---
 layout: default
 title: "Srinidhi Narayanan - Neuroscience Researcher"
